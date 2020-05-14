@@ -3,12 +3,12 @@ body {
 }
 
 main {
-    background-color: pink;
+    background-color: #ecfaec;
 }
 
 header {
     background-color: #228b22;
-    color: #ddf7dd;
+    color: #ecfaec;
     text-align: center;
     vertical-align: auto;
     margin: 0;
