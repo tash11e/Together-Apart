@@ -1,0 +1,23 @@
+
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    background-color: rgb(6, 253, 171);
+    color: hsl(122, 97%, 15%);
+    text-align: center;
+    vertical-align: auto;
+    margin: 0;
+    padding: 10px;
+}
+
+.bear-photo {
+    display: flex;
+    max-width: 100%;
+    /* border-radius: 10%; */
+}
+
+figcaption {
+    text-align: center;
+}
