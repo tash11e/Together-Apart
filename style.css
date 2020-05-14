@@ -11,6 +11,14 @@ header {
     padding: 10px;
 }
 
+a {
+    color: #228b22;
+}
+
+a:hover {
+    color: #0f3c0f;
+}
+
 .bear-photo {
     display: flex;
     max-width: 100%;
