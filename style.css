@@ -13,10 +13,12 @@ header {
 
 .link {
     color: #228b22;
+    text-decoration: underline;
 }
 
 .link:hover {
     color: #0f3c0f;
+    text-decoration: none;
 }
 
 .bear-photo {
