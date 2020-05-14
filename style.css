@@ -1,4 +1,3 @@
-
 * {
     font-family: 'Roboto', sans-serif;
 }
@@ -20,4 +19,8 @@ header {
 
 figcaption {
     text-align: center;
+}
+
+.noMargin {
+    margin: 0;
 }
