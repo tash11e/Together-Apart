@@ -11,11 +11,11 @@ header {
     padding: 10px;
 }
 
-a {
+.link {
     color: #228b22;
 }
 
-a:hover {
+.link:hover {
     color: #0f3c0f;
 }
 
