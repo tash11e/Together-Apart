@@ -1,6 +1,5 @@
 body {
     font-family: 'Roboto', sans-serif;
-    padding: 10px;
 }
 
 header {
@@ -10,6 +9,10 @@ header {
     vertical-align: auto;
     margin: 0;
     padding: 10px;
+}
+
+h2 {
+    padding-top: 15px;
 }
 
 .link {
