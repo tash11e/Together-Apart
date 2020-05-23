@@ -13,6 +13,12 @@ header {
 
 h1 a {
     color: #ecfaec;
+    text-decoration: underline;
+}
+
+h1 a:hover {
+    color: #51d151;
+    text-decoration: none;
 }
 
 h2 {
