@@ -13,12 +13,12 @@ header {
 }
 
 h1 a {
-    color: #ecfaec;
+    color: #4cde0e;
     text-decoration: underline;
 }
 
 h1 a:hover {
-    color: #51d151;
+    color: #53f010;
     text-decoration: none;
 }
 
