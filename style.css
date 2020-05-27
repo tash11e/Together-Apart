@@ -1,6 +1,10 @@
 body {
     font-family: 'Roboto', sans-serif;
-    background-color: #b0f891;
+    
+}
+
+* {
+    background-color: #60f122;
 }
 
 header {
@@ -18,7 +22,7 @@ h1 a {
 }
 
 h1 a:hover {
-    color: #53f010;
+    color: #60f122;
     text-decoration: none;
 }
 
