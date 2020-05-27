@@ -1,5 +1,6 @@
 body {
     font-family: 'Roboto', sans-serif;
+    background-color: #f2feed;
 }
 
 header {
@@ -26,12 +27,12 @@ h2 {
 }
 
 .link {
-    color: #228b22;
+    color: #194a05;
     text-decoration: underline;
 }
 
 .link:hover {
-    color: #0f3c0f;
+    color: #4cde0e;
     text-decoration: none;
 }
 
