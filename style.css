@@ -37,7 +37,8 @@ h2 {
 }
 
 .logo {
-    max-height: 20px;
+    max-height: 20%;
+    max-width: 10%;
     display: inline;
 }
 
