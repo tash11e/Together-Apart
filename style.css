@@ -1,6 +1,6 @@
 body {
     font-family: 'Roboto', sans-serif;
-    background-color: #60f122;
+    background-color: red;
 }
 
 header {
@@ -36,12 +36,16 @@ h2 {
     text-decoration: none;
 }
 
-.bear-photo {
-    display: flex;
-    max-width: 100%;
+.logo {
+    max-height: 20px;
 }
 
-figcaption {
-    text-align: center;
-}
+/*.bear-photo {*/
+/*    display: flex;*/
+/*    max-width: 100%;*/
+/*}*/
+
+/*figcaption {*/
+/*    text-align: center;*/
+/*}*/
 
