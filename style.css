@@ -38,6 +38,7 @@ h2 {
 
 .logo {
     max-height: 20px;
+    display: inline;
 }
 
 /*.bear-photo {*/
