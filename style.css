@@ -41,6 +41,10 @@ h2 {
     height: 10%;
 }
 
+.title {
+    text-align: center;
+}
+
 /*.bear-photo {*/
 /*    display: flex;*/
 /*    max-width: 100%;*/
