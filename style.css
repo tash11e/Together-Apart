@@ -42,6 +42,7 @@ h2 {
 }
 
 .title {
+    margin: auto;
     /*text-align: center;*/
     /*vertical-align: middle;*/
 }
