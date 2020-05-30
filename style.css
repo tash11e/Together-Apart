@@ -7,8 +7,8 @@ header {
     color: #4cde0e;
     text-align: center;
     vertical-align: auto;
-    margin: 0;
-    padding: inherit;
+    margin: auto;
+    /*padding: inherit;*/
     height: 150px;
 }
 
