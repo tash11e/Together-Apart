@@ -15,6 +15,7 @@ header {
 h1 a {
     color: #4cde0e;
     text-decoration: underline;
+    margin: auto;
 }
 
 h1 a:hover {
@@ -45,6 +46,8 @@ h2 {
 .logo1 {
     display: inline-block;
     align-items: center;
+    margin: auto;
+    vertical-align: auto;
 }
 
 .title {
