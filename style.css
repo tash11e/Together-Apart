@@ -8,7 +8,8 @@ header {
     text-align: center;
     vertical-align: auto;
     margin: 0;
-    padding: 15px;
+    /*padding: 15px;*/
+    height: 200px;
 }
 
 h1 a {
