@@ -51,9 +51,10 @@ h2 {
 
 .title {
     margin: auto;
+    align-items: center;
     text-align: center;
-    vertical-align: middle;
-    padding-top: 20px;
+    /*vertical-align: middle;*/
+    /*padding-top: 20px;*/
 }
 
 
