@@ -8,14 +8,14 @@ header {
     text-align: center;
     vertical-align: auto;
     margin: auto;
-    /*padding: inherit;*/
-    height: 150px;
+    padding: 15px;
 }
 
 h1 a {
     color: #4cde0e;
     text-decoration: underline;
     margin: auto;
+    padding: 15px;
 }
 
 h1 a:hover {
@@ -46,8 +46,6 @@ h2 {
 .logo1 {
     display: inline-block;
     align-items: center;
-    margin: auto;
-    vertical-align: auto;
 }
 
 .title {
@@ -56,12 +54,4 @@ h2 {
     /*vertical-align: middle;*/
 }
 
-/*.bear-photo {*/
-/*    display: flex;*/
-/*    max-width: 100%;*/
-/*}*/
-
-/*figcaption {*/
-/*    text-align: center;*/
-/*}*/
 
