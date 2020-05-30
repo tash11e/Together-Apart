@@ -11,17 +11,17 @@ header {
     padding: 15px;
 }
 
-h1 a {
-    color: #4cde0e;
-    text-decoration: underline;
-    margin: auto;
-    padding: 35px;
-}
+/*h1 a {*/
+/*    color: #4cde0e;*/
+/*    text-decoration: underline;*/
+/*    margin: auto;*/
+/*    padding: 35px;*/
+/*}*/
 
-h1 a:hover {
-    color: #60f122;
-    text-decoration: none;
-}
+/*h1 a:hover {*/
+/*    color: #60f122;*/
+/*    text-decoration: none;*/
+/*}*/
 
 h2 {
     padding-top: 15px;
@@ -50,6 +50,7 @@ h2 {
 
 .title {
     margin: auto;
+    padding: 20px;
     /*text-align: center;*/
     /*vertical-align: middle;*/
 }
