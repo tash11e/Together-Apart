@@ -12,18 +12,6 @@ header {
     min-height: 120px;
 }
 
-/*h1 a {*/
-/*    color: #4cde0e;*/
-/*    text-decoration: underline;*/
-/*    margin: auto;*/
-/*    padding: 35px;*/
-/*}*/
-
-/*h1 a:hover {*/
-/*    color: #60f122;*/
-/*    text-decoration: none;*/
-/*}*/
-
 h2 {
     padding-top: 15px;
 }
@@ -38,12 +26,6 @@ h2 {
     text-decoration: none;
 }
 
-/*.logo {*/
-    /*max-height: 10%;*/
-    /*display: inline;*/
-/*    height: 10%;*/
-/*}*/
-
 .logo1 {
     display: inline-block;
     align-items: center;
@@ -54,11 +36,6 @@ h2 {
     text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
-    
-    /*align-items: center;*/
-    /*vertical-align: middle;*/
-    /*padding-top: 20px;*/
-
 }
 
 
