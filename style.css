@@ -51,12 +51,15 @@ h2 {
 
 .title {
     margin: auto;
-    padding-top: 30px;
-    padding-bottom: 30px;
     text-align: center;
+    height: 120px;
+    line-height: 120px;
+    
     /*align-items: center;*/
     /*vertical-align: middle;*/
     /*padding-top: 20px;*/
+    /*padding-top: 30px;*/
+    /*padding-bottom: 30px;*/
 }
 
 
